@@ -1,0 +1,6 @@
+# .gitignore file for picosdk-ms-excel-vba-examples repository
+# Untracked files/folders to ignore.
+
+# Windows platforms
+
+**/*.dll
