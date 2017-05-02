@@ -1,4 +1,4 @@
 # .gitattributes file for picosdk-ms-excel-vba-examples
 
-*.xls linguist-language=VBA
-*.xlsm linguist-language=VBA
+*.xls linguist-language=Visual Basic
+*.xlsm linguist-language=Visual Basic
