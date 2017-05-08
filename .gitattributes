@@ -1,8 +1,8 @@
 # .gitattributes file for picosdk-ms-excel-vba-examples
 
 # Set language
-*.xls linguist-language="Visual Basic"
-*.xlsm linguist-language="Visual Basic"
+*.xls linguist-language=Visual-Basic
+*.xlsm linguist-language=Visual-Basic
 
 # Register as binary files
 *.xls -crlf -diff -merge
