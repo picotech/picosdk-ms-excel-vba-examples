@@ -10,7 +10,7 @@ Examples are provided for 32-bit and 64-bit version of Microsoft Excel and are g
 
 #### Windows
 
-* Microsoft Excel 2010 (32-bit or 64-bit version) or later.  
+* [Microsoft Excel](https://products.office.com/en-gb/excel) 2010 (32-bit or 64-bit version) or later.  
 
 ### Installing drivers
 
