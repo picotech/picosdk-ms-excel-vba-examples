@@ -1,6 +1,6 @@
 # picosdk-ms-excel-vba-examples
 
-This is a collection of Microsoft Excel Visual Basic for Applications (VBA) examples for PicoScope oscilloscope and PicoLog data logger products.
+picosdk-ms-excel-vba-examples is a set of Microsoft Excel Visual Basic for Applications (VBA) examples for PicoScope oscilloscope and PicoLog data logger products.
 
 Examples are provided for 32-bit and 64-bit version of Microsoft Excel and are grouped by driver name.
 
