@@ -1,6 +1,6 @@
 # picosdk-ms-excel-vba-examples
 
-picosdk-ms-excel-vba-examples is a set of Microsoft Excel Visual Basic for Applications (VBA) examples for PicoScope oscilloscope and PicoLog data logger products.
+*picosdk-ms-excel-vba-examples* is a set of Microsoft Excel Visual Basic for Applications (VBA) examples for PicoScope oscilloscope and PicoLog data logger products.
 
 Examples are provided for 32-bit and 64-bit version of Microsoft Excel and are grouped by driver name.
 
@@ -8,7 +8,7 @@ Examples are provided for 32-bit and 64-bit version of Microsoft Excel and are g
 
 ### Prerequisites
 
-#### Windows
+#### Microsoft Windows
 
 * [Microsoft Excel](https://products.office.com/en-gb/excel) 2010 (32-bit or 64-bit version) or later.  
 
@@ -16,7 +16,7 @@ Examples are provided for 32-bit and 64-bit version of Microsoft Excel and are g
 
 Drivers are available for the following platforms. Refer to the subsections below for further information.
 
-#### Windows
+#### Microsoft Windows
 
 * Download the PicoSDK (32-bit or 64-bit) driver package installer from our [Downloads page](https://www.picotech.com/downloads).
 
